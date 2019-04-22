@@ -26,9 +26,9 @@
         <div class="th_login">
             <div>第三方登录</div>
             <div>
-                <img src="" alt="">
-                <img src="" alt="">
-                <img src="" alt="">
+                <a href=""><img src="" alt=""></a>
+                <a href=""><img src="" alt=""></a>
+                <a href=""><img src="" alt=""></a>
             </div>
         </div>
     </div>
